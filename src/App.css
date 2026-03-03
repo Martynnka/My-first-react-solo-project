@@ -1,0 +1,57 @@
+body{
+  background-color: #0f172a;
+}
+
+.margin{
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+
+.Hero-h1{
+  color: white;
+  width: 620px;
+  font-size: 42px;
+}
+
+.Hero-p{
+  color: rgb(148, 148, 148);
+  width: 620px;
+  text-align: justify;
+}
+
+.Hero-img{
+    border-radius: 50%;
+}
+
+.Hero-box{
+  margin-top: 75px;
+}
+
+.Aboutme-Card{
+  height: 320px;
+  width: 620px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: justify;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.Aboutme-h1{
+  color: white;
+}
+
+.Aboutme-p{
+    color: rgb(148, 148, 148);
+}
+
+.Line{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-color: #52648f;
+}
